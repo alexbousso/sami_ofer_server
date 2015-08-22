@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Google credentials
+.credentials
+
+# PyCharm
+.idea
